@@ -1,0 +1,64 @@
+{
+  "produtos": [
+    {
+      "id": "0",
+      "nome": "Ipad",
+      "valor": "5000",
+      "quantidade": "4"
+    },
+    {
+      "id": "1",
+      "nome": "Iphone",
+      "valor": "8000",
+      "quantidade": "3"
+    },
+    {
+      "id": "2",
+      "nome": "Notebook",
+      "valor": "5500",
+      "quantidade": "15"
+    },
+    {
+      "id": "3",
+      "nome": "Nintendo Switch",
+      "valor": "2800",
+      "quantidade": "18"
+    },
+    {
+      "id": "4",
+      "nome": "Mac Pro",
+      "valor": "15000",
+      "quantidade": "20"
+    },
+    {
+      "id": "5",
+      "nome": "Xbox Series X",
+      "valor": "2500",
+      "quantidade": "1"
+    },
+    {
+      "id": "35e3",
+      "nome": "teste",
+      "valor": "10",
+      "quantidade": "1"
+    },
+    {
+      "id": "a5b6",
+      "nome": "teste",
+      "valor": "10",
+      "quantidade": "1"
+    },
+    {
+      "id": "d91d",
+      "nome": "teste",
+      "valor": "10",
+      "quantidade": "1"
+    },
+    {
+      "id": "73d6",
+      "nome": "teste",
+      "valor": "10",
+      "quantidade": "1"
+    }
+  ]
+}
